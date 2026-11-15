@@ -22,7 +22,7 @@ public class StudentScore {
 
     public static void main(String[] args) {
         while(true){
-            System.out.println("=====学生成绩管理系统=====");
+            System.out.println("=====版本main：学生成绩管理系统=====");
             System.out.println("1 添加学生  2 查询成绩  3 删除学生  4 统计平均分  0 退出");
             System.out.print("请输入选择：");
             String op = sc.nextLine();
